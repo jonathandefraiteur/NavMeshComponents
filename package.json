@@ -1,0 +1,26 @@
+{
+  "name": "com.jonathan-defraiteur.nav-mesh-components",
+  "version": "2019.3.0",
+  "displayName": "NavMesh Component",
+  "description": "A fork of the official NavMesh Component to fits in package manager.",
+  "unity": "2019.3",
+  "keywords": [
+    "nav",
+    "navmesh",
+    "component",
+    "components",
+    "agent"
+  ],
+  "author": {
+    "name": "Jonathan Defraiteur",
+    "email": "jonathan.defraiteur@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.com:jonathan.defraiteur/nav-mesh-components.git"
+  },
+  "type": "library",
+  "dependencies": {
+    "com.unity.test-framework": "1.1.11"
+  }
+}
